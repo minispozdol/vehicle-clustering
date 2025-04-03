@@ -1,0 +1,364 @@
+,eeca_make,eeca_model,eeca_transmission,eeca_fuel,eeca_engine_power,eeca_weight,eeca_doors,eeca_engine_cc,eeca_vehicle_type,eeca_pollutants_stars,eeca_co2stars,eeca_co2per_km,eeca_yearly_co2,eeca_fuel_stars,eeca_yearly_cost,eeca_fuel_consumption,eeca_driver_safety_stars,VerifiedVariant,eeca_drive
+18720,TOYOTA,COROLLA,CVT,Petrol,80.0,1545.0,4.0,1496.0,Car(Small): Station wagon,,7,126.0,1.76,7.0,1820.0,5.2,8.0,2014–19 Corolla Waggon Petrol,2WD
+8224,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+36633,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,5,169.0,2.37,5.0,2560.0,7.3,8.0,2014–19 Corolla Hatch Petrol,2WD
+42865,TOYOTA,COROLLA,CVT,Petrol,80.0,1545.0,4.0,1496.0,Car(Small): Station wagon,,7,126.0,1.76,7.0,1820.0,5.2,8.0,2014–19 Corolla Waggon Petrol,2WD
+36342,TOYOTA,COROLLA,CVT,Petrol,81.0,1635.0,,1496.0,Car(Small): Station wagon,,6,143.0,2.0,6.0,2100.0,6.0,8.0,2014–19 Corolla Waggon Petrol,2WD
+10502,TOYOTA,COROLLA,CVT,Petrol,81.0,1635.0,,1496.0,Car(Small): Station wagon,,6,143.0,2.0,6.0,2100.0,6.0,8.0,2014–19 Corolla Waggon Petrol,2WD
+8778,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+1399,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+15519,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+45728,TOYOTA,COROLLA,CVT,Petrol,102.0,1735.0,4.0,1798.0,Car(Small): Saloon,,5,170.0,2.38,5.0,2560.0,7.3,8.0,2014–19 Corolla Sedan Petrol,2WD
+51694,TOYOTA,COROLLA,CVT,Petrol,80.0,1545.0,4.0,1496.0,Car(Small): Station wagon,,7,126.0,1.76,7.0,1820.0,5.2,8.0,2014–19 Corolla Waggon Petrol,2WD
+3637,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+4194,TOYOTA,COROLLA,0-step CVT,Petrol,,,,1496.0,Car: Station wagon,9.0,7,123.0,1.72,7.0,1820.0,5.2,8.0,2014–19 Corolla Waggon Petrol,2WD
+51868,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,5,169.0,2.37,5.0,2560.0,7.3,8.0,2014–19 Corolla Hatch Petrol,2WD
+57203,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+16959,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+57322,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,5,169.0,2.37,5.0,2560.0,7.3,8.0,2014–19 Corolla Hatch Petrol,2WD
+46431,TOYOTA,COROLLA,CVT,Petrol,102.0,1735.0,4.0,1798.0,Car(Small): Saloon,,5,170.0,2.38,5.0,2560.0,7.3,8.0,2014–19 Corolla Sedan Petrol,2WD
+52262,TOYOTA,COROLLA,CVT,Petrol,80.0,1545.0,4.0,1496.0,Car(Small): Station wagon,,7,126.0,1.76,7.0,1820.0,5.2,8.0,2014–19 Corolla Waggon Petrol,2WD
+3879,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+10351,TOYOTA,COROLLA,CVT,Petrol,102.0,1735.0,4.0,1798.0,Car(Small): Saloon,,5,170.0,2.38,5.0,2560.0,7.3,8.0,2014–19 Corolla Sedan Petrol,2WD
+57220,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+18721,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+57098,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,5.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+416,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,5.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+32507,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,5,169.0,2.37,5.0,2560.0,7.3,8.0,2014–19 Corolla Hatch Petrol,2WD
+56890,TOYOTA,COROLLA,0-step CVT,Petrol Hybrid,,,,1496.0,Car: Station wagon,9.0,8,92.0,1.29,8.0,1370.0,3.9,8.0,2014–19 Corolla Waggon Petrol Hybrid,2WD
+41110,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,5.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+56822,TOYOTA,COROLLA,CVT,Petrol,80.0,1545.0,4.0,1496.0,Car(Small): Station wagon,,7,126.0,1.76,7.0,1820.0,5.2,8.0,2014–19 Corolla Waggon Petrol,2WD
+37565,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,5.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+23691,TOYOTA,COROLLA,CVT,Petrol,81.0,1635.0,,1496.0,Car(Small): Station wagon,,6,143.0,2.0,6.0,2100.0,6.0,8.0,2014–19 Corolla Waggon Petrol,2WD
+57008,TOYOTA,COROLLA,CVT,Petrol,81.0,1635.0,,1496.0,Car(Small): Station wagon,,6,143.0,2.0,6.0,2100.0,6.0,8.0,2014–19 Corolla Waggon Petrol,2WD
+48865,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,5.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+56988,TOYOTA,COROLLA,CVT,Petrol,81.0,1635.0,,1496.0,Car(Small): Station wagon,,6,143.0,2.0,6.0,2100.0,6.0,8.0,2014–19 Corolla Waggon Petrol,2WD
+6815,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,5.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+4124,TOYOTA,COROLLA,0-step CVT,Petrol Hybrid,,,,1496.0,Car: Station wagon,9.0,8,92.0,1.29,8.0,1370.0,3.9,8.0,2014–19 Corolla Waggon Petrol Hybrid,2WD
+34719,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+56906,TOYOTA,COROLLA,CVT,Petrol,102.0,1735.0,4.0,1798.0,Car(Small): Saloon,,5,170.0,2.38,5.0,2560.0,7.3,8.0,2014–19 Corolla Sedan Petrol,2WD
+57468,TOYOTA,COROLLA,4-gear automatic,Petrol,100.0,1805.0,5.0,1798.0,Car(Small): Hatchback,8.0,4,198.0,2.77,4.0,2870.0,8.2,4.0,2009–13 Corolla Hatch Petrol,2WD
+38410,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,5.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+19267,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+15641,TOYOTA,COROLLA,4-gear automatic,Petrol,100.0,1805.0,5.0,1798.0,Car(Small): Hatchback,8.0,4,198.0,2.77,4.0,2870.0,8.2,4.0,2009–13 Corolla Hatch Petrol,2WD
+56953,TOYOTA,COROLLA,CVT,Petrol Hybrid,,1455.0,,1496.0,Car: Station wagon,9.0,8,94.0,1.32,8.0,1370.0,3.9,8.0,2014–19 Corolla Waggon Petrol,2WD
+57432,TOYOTA,COROLLA,CVT,Petrol,81.0,1635.0,,1496.0,Car(Small): Station wagon,,6,143.0,2.0,6.0,2100.0,6.0,8.0,2014–19 Corolla Waggon Petrol,2WD
+46686,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,5,169.0,2.37,5.0,2560.0,7.3,8.0,2014–19 Corolla Hatch Petrol,2WD
+15378,TOYOTA,COROLLA,CVT,Petrol,102.0,1735.0,4.0,1798.0,Car(Small): Saloon,,5,170.0,2.38,5.0,2560.0,7.3,8.0,2014–19 Corolla Sedan Petrol,2WD
+42850,TOYOTA,COROLLA,CVT,Petrol,80.0,1545.0,4.0,1496.0,Car(Small): Station wagon,,7,126.0,1.76,7.0,1820.0,5.2,8.0,2014–19 Corolla Waggon Petrol,2WD
+23096,TOYOTA,COROLLA,CVT,Petrol,81.0,1635.0,,1496.0,Car(Small): Station wagon,,6,143.0,2.0,6.0,2100.0,6.0,8.0,2014–19 Corolla Waggon Petrol,2WD
+26625,TOYOTA,COROLLA,CVT,Petrol,81.0,1635.0,,1496.0,Car(Small): Station wagon,,6,143.0,2.0,6.0,2100.0,6.0,8.0,2014–19 Corolla Waggon Petrol,2WD
+57140,TOYOTA,COROLLA,CVT,Petrol,102.0,1735.0,4.0,1798.0,Car(Small): Saloon,,5,170.0,2.38,5.0,2560.0,7.3,8.0,2014–19 Corolla Sedan Petrol,2WD
+57256,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+57158,TOYOTA,COROLLA,CVT,Petrol,102.0,1735.0,4.0,1798.0,Car(Small): Saloon,,5,170.0,2.38,5.0,2560.0,7.3,8.0,2014–19 Corolla Sedan Petrol,2WD
+17917,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+13098,TOYOTA,COROLLA,CVT,Petrol Hybrid,,1455.0,,1496.0,Car: Station wagon,9.0,8,94.0,1.32,8.0,1370.0,3.9,8.0,2014–19 Corolla Waggon Petrol,2WD
+56965,TOYOTA,COROLLA,CVT,Petrol,81.0,1635.0,,1496.0,Car(Small): Station wagon,,6,143.0,2.0,6.0,2100.0,6.0,8.0,2014–19 Corolla Waggon Petrol,2WD
+35911,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,5,169.0,2.37,5.0,2560.0,7.3,8.0,2014–19 Corolla Hatch Petrol,2WD
+6538,TOYOTA,COROLLA,CVT,Petrol,81.0,1635.0,,1496.0,Car(Small): Station wagon,,6,143.0,2.0,6.0,2100.0,6.0,8.0,2014–19 Corolla Waggon Petrol,2WD
+46684,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,5.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+16486,TOYOTA,COROLLA,CVT,Petrol,102.0,1735.0,4.0,1798.0,Car(Small): Saloon,,5,170.0,2.38,5.0,2560.0,7.3,8.0,2014–19 Corolla Sedan Petrol,2WD
+57208,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+56870,TOYOTA,COROLLA,CVT,Petrol,80.0,1545.0,4.0,1496.0,Car(Small): Station wagon,,7,126.0,1.76,7.0,1820.0,5.2,8.0,2014–19 Corolla Waggon Petrol,2WD
+1192,TOYOTA,COROLLA,CVT,Petrol Hybrid,,1455.0,,1496.0,Car: Station wagon,9.0,8,94.0,1.32,8.0,1370.0,3.9,8.0,2014–19 Corolla Waggon Petrol,2WD
+18213,TOYOTA,COROLLA,CVT,Petrol,102.0,1735.0,4.0,1798.0,Car(Small): Saloon,,5,170.0,2.38,5.0,2560.0,7.3,8.0,2014–19 Corolla Sedan Petrol,2WD
+45292,TOYOTA,COROLLA,CVT,Petrol,81.0,1635.0,,1496.0,Car(Small): Station wagon,,6,143.0,2.0,6.0,2100.0,6.0,8.0,2014–19 Corolla Waggon Petrol,2WD
+56796,TOYOTA,COROLLA,CVT,Petrol,80.0,1545.0,4.0,1496.0,Car(Small): Station wagon,,7,126.0,1.76,7.0,1820.0,5.2,8.0,2014–19 Corolla Waggon Petrol,2WD
+57071,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,5.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+17463,TOYOTA,COROLLA,CVT,Petrol,80.0,1545.0,4.0,1496.0,Car(Small): Station wagon,,7,126.0,1.76,7.0,1820.0,5.2,8.0,2014–19 Corolla Waggon Petrol,2WD
+51610,TOYOTA,COROLLA,CVT,Petrol,102.0,1735.0,4.0,1798.0,Car(Small): Saloon,,5,170.0,2.38,5.0,2560.0,7.3,8.0,2014–19 Corolla Sedan Petrol,2WD
+24344,TOYOTA,COROLLA,CVT,Petrol,80.0,1545.0,4.0,1496.0,Car(Small): Station wagon,,7,126.0,1.76,7.0,1820.0,5.2,8.0,2014–19 Corolla Waggon Petrol,2WD
+46380,TOYOTA,COROLLA,CVT,Petrol,102.0,1735.0,4.0,1798.0,Car(Small): Saloon,,5,170.0,2.38,5.0,2560.0,7.3,8.0,2014–19 Corolla Sedan Petrol,2WD
+49318,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,5.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+25818,TOYOTA,COROLLA,CVT,Petrol,81.0,1635.0,,1496.0,Car(Small): Station wagon,,6,143.0,2.0,6.0,2100.0,6.0,8.0,2014–19 Corolla Waggon Petrol,2WD
+681,TOYOTA,COROLLA,CVT,Petrol Hybrid,,1455.0,,1496.0,Car: Station wagon,9.0,8,94.0,1.32,8.0,1370.0,3.9,8.0,2009–13 Corolla Wagon Petrol Hybrid,2WD
+17012,TOYOTA,COROLLA,CVT,Petrol,102.0,1735.0,4.0,1798.0,Car(Small): Saloon,,5,170.0,2.38,5.0,2560.0,7.3,8.0,2014–19 Corolla Sedan Petrol,2WD
+17815,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+57328,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,5,169.0,2.37,5.0,2560.0,7.3,8.0,2014–19 Corolla Hatch Petrol,2WD
+17671,TOYOTA,COROLLA,CVT,Petrol,80.0,1545.0,4.0,1496.0,Car(Small): Station wagon,,7,126.0,1.76,7.0,1820.0,5.2,8.0,2014–19 Corolla Waggon Petrol,2WD
+7126,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+50920,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,5.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+57101,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,5.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+57142,TOYOTA,COROLLA,CVT,Petrol,102.0,1735.0,4.0,1798.0,Car(Small): Saloon,,5,170.0,2.38,5.0,2560.0,7.3,8.0,2014–19 Corolla Sedan Petrol,2WD
+56848,TOYOTA,COROLLA,CVT,Petrol Hybrid,,1415.0,,1496.0,Car: Saloon,9.0,8,94.0,1.32,8.0,1370.0,3.9,8.0,2014–19 Corolla Sedan Petrol Hybrid,2WD
+20283,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+239,TOYOTA,COROLLA,4-gear automatic,Petrol,100.0,1805.0,5.0,1798.0,Car(Small): Hatchback,8.0,4,198.0,2.77,4.0,2870.0,8.2,4.0,2009–13 Corolla Hatch Petrol,2WD
+22093,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+57172,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+4897,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,5.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+56852,TOYOTA,COROLLA,CVT,Petrol,80.0,1545.0,4.0,1496.0,Car(Small): Station wagon,,7,126.0,1.76,7.0,1820.0,5.2,8.0,2014–19 Corolla Waggon Petrol,2WD
+5645,TOYOTA,COROLLA,CVT,Petrol,102.0,1735.0,4.0,1798.0,Car(Small): Saloon,,5,170.0,2.38,5.0,2560.0,7.3,8.0,2014–19 Corolla Sedan Petrol,2WD
+56801,TOYOTA,COROLLA,CVT,Petrol,80.0,1545.0,4.0,1496.0,Car(Small): Station wagon,,7,126.0,1.76,7.0,1820.0,5.2,8.0,2014–19 Corolla Waggon Petrol,2WD
+57188,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+46417,TOYOTA,COROLLA,CVT,Petrol,81.0,1635.0,,1496.0,Car(Small): Station wagon,,6,143.0,2.0,6.0,2100.0,6.0,8.0,2014–19 Corolla Waggon Petrol,2WD
+56929,TOYOTA,COROLLA,CVT,Petrol,102.0,1735.0,4.0,1798.0,Car(Small): Saloon,,5,170.0,2.38,5.0,2560.0,7.3,8.0,2014–19 Corolla Sedan Petrol,2WD
+52143,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,5,169.0,2.37,5.0,2560.0,7.3,8.0,2014–19 Corolla Hatch Petrol,2WD
+57084,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,5.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+57341,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,5,169.0,2.37,5.0,2560.0,7.3,8.0,2014–19 Corolla Hatch Petrol,2WD
+57310,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,5,169.0,2.37,5.0,2560.0,7.3,8.0,2014–19 Corolla Hatch Petrol,2WD
+23780,TOYOTA,COROLLA,CVT,Petrol,81.0,1635.0,,1496.0,Car(Small): Station wagon,,6,143.0,2.0,6.0,2100.0,6.0,8.0,2014–19 Corolla Waggon Petrol,2WD
+30183,TOYOTA,COROLLA,CVT,Petrol,81.0,1635.0,,1496.0,Car(Small): Station wagon,,6,143.0,2.0,6.0,2100.0,6.0,8.0,2014–19 Corolla Waggon Petrol,2WD
+18687,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+27925,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,5,169.0,2.37,5.0,2560.0,7.3,8.0,2014–19 Corolla Hatch Petrol,2WD
+57457,TOYOTA,COROLLA,4-gear automatic,Petrol,100.0,1805.0,5.0,1798.0,Car(Small): Hatchback,8.0,4,198.0,2.77,4.0,2870.0,8.2,4.0,2009–13 Corolla Hatch Petrol,2WD
+18076,TOYOTA,COROLLA,4-gear automatic,Petrol,100.0,1805.0,5.0,1798.0,Car(Small): Hatchback,8.0,4,198.0,2.77,4.0,2870.0,8.2,4.0,2009–13 Corolla Hatch Petrol,2WD
+28443,TOYOTA,COROLLA,CVT,Petrol,81.0,1635.0,,1496.0,Car(Small): Station wagon,,6,143.0,2.0,6.0,2100.0,6.0,8.0,2014–19 Corolla Waggon Petrol,2WD
+57179,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+10881,TOYOTA,COROLLA,CVT,Petrol,81.0,1635.0,,1496.0,Car(Small): Station wagon,,6,143.0,2.0,6.0,2100.0,6.0,8.0,2014–19 Corolla Waggon Petrol,2WD
+57129,TOYOTA,COROLLA,CVT,Petrol,102.0,1735.0,4.0,1798.0,Car(Small): Saloon,,5,170.0,2.38,5.0,2560.0,7.3,8.0,2014–19 Corolla Sedan Petrol,2WD
+9394,TOYOTA,COROLLA,CVT,Petrol,80.0,1545.0,4.0,1496.0,Car(Small): Station wagon,,7,126.0,1.76,7.0,1820.0,5.2,8.0,2014–19 Corolla Waggon Petrol,2WD
+18970,TOYOTA,COROLLA,CVT,Petrol,81.0,1635.0,,1496.0,Car(Small): Station wagon,,6,143.0,2.0,6.0,2100.0,6.0,8.0,2014–19 Corolla Waggon Petrol,2WD
+46485,TOYOTA,COROLLA,CVT,Petrol,102.0,1735.0,4.0,1798.0,Car(Small): Saloon,,5,170.0,2.38,5.0,2560.0,7.3,8.0,2014–19 Corolla Sedan Petrol,2WD
+13865,TOYOTA,COROLLA,CVT,Petrol,81.0,1635.0,,1496.0,Car(Small): Station wagon,,6,143.0,2.0,6.0,2100.0,6.0,8.0,2014–19 Corolla Waggon Petrol,2WD
+49871,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,5.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+22358,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+57077,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,5.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+13953,TOYOTA,COROLLA,4-gear automatic,Petrol,100.0,1805.0,5.0,1798.0,Car(Small): Hatchback,8.0,4,198.0,2.77,4.0,2870.0,8.2,4.0,2009–13 Corolla Hatch Petrol,2WD
+2164,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+57176,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+3126,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+56789,TOYOTA,COROLLA,CVT,Petrol,80.0,1545.0,4.0,1496.0,Car(Small): Station wagon,,7,126.0,1.76,7.0,1820.0,5.2,8.0,2014–19 Corolla Waggon Petrol,2WD
+7836,TOYOTA,COROLLA,CVT,Petrol,102.0,1735.0,4.0,1798.0,Car(Small): Saloon,,5,170.0,2.38,5.0,2560.0,7.3,8.0,2014–19 Corolla Sedan Petrol,2WD
+57211,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+57321,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,5,169.0,2.37,5.0,2560.0,7.3,8.0,2014–19 Corolla Hatch Petrol,2WD
+51834,TOYOTA,COROLLA,CVT,Petrol,102.0,1735.0,4.0,1798.0,Car(Small): Saloon,,5,170.0,2.38,5.0,2560.0,7.3,8.0,2014–19 Corolla Sedan Petrol,2WD
+57154,TOYOTA,COROLLA,CVT,Petrol,102.0,1735.0,4.0,1798.0,Car(Small): Saloon,,5,170.0,2.38,5.0,2560.0,7.3,8.0,2014–19 Corolla Sedan Petrol,2WD
+1329,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,5.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+24767,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,5,169.0,2.37,5.0,2560.0,7.3,8.0,2014–19 Corolla Hatch Petrol,2WD
+45607,TOYOTA,COROLLA,4-gear automatic,Petrol,100.0,1805.0,5.0,1798.0,Car(Small): Hatchback,8.0,4,198.0,2.77,4.0,2870.0,8.2,4.0,2009–13 Corolla Hatch Petrol,2WD
+57050,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,5.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+27619,TOYOTA,COROLLA,CVT,Petrol Hybrid,,1455.0,,1496.0,Car: Station wagon,9.0,8,94.0,1.32,8.0,1370.0,3.9,8.0,2009–13 Corolla Wagon Petrol Hybrid,2WD
+17345,TOYOTA,COROLLA,CVT,Petrol,80.0,1545.0,4.0,1496.0,Car(Small): Station wagon,,7,126.0,1.76,7.0,1820.0,5.2,8.0,2014–19 Corolla Waggon Petrol,2WD
+56937,TOYOTA,COROLLA,CVT,Petrol,102.0,1735.0,4.0,1798.0,Car(Small): Saloon,,5,170.0,2.38,5.0,2560.0,7.3,8.0,2014–19 Corolla Sedan Petrol,2WD
+22618,TOYOTA,COROLLA,CVT,Petrol,81.0,1635.0,,1496.0,Car(Small): Station wagon,,6,143.0,2.0,6.0,2100.0,6.0,8.0,2014–19 Corolla Waggon Petrol,2WD
+38014,TOYOTA,COROLLA,CVT,Petrol,80.0,1545.0,4.0,1496.0,Car(Small): Station wagon,,7,126.0,1.76,7.0,1820.0,5.2,8.0,2014–19 Corolla Waggon Petrol,2WD
+57344,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,5,169.0,2.37,5.0,2560.0,7.3,8.0,2014–19 Corolla Hatch Petrol,2WD
+42728,TOYOTA,COROLLA,CVT,Petrol,81.0,1635.0,,1496.0,Car(Small): Station wagon,,6,143.0,2.0,6.0,2100.0,6.0,8.0,2014–19 Corolla Waggon Petrol,2WD
+56913,TOYOTA,COROLLA,CVT,Petrol,102.0,1735.0,4.0,1798.0,Car(Small): Saloon,,5,170.0,2.38,5.0,2560.0,7.3,8.0,2014–19 Corolla Sedan Petrol,2WD
+57125,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,5.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+23939,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+46720,TOYOTA,COROLLA,CVT,Petrol,102.0,1735.0,4.0,1798.0,Car(Small): Saloon,,5,170.0,2.38,5.0,2560.0,7.3,8.0,2014–19 Corolla Sedan Petrol,2WD
+57455,TOYOTA,COROLLA,4-gear automatic,Petrol,100.0,1805.0,5.0,1798.0,Car(Small): Hatchback,8.0,4,198.0,2.77,4.0,2870.0,8.2,4.0,2009–13 Corolla Hatch Petrol,2WD
+14796,TOYOTA,COROLLA,CVT,Petrol,81.0,1635.0,,1496.0,Car(Small): Station wagon,,6,143.0,2.0,6.0,2100.0,6.0,8.0,2014–19 Corolla Waggon Petrol,2WD
+57006,TOYOTA,COROLLA,CVT,Petrol,81.0,1635.0,,1496.0,Car(Small): Station wagon,,6,143.0,2.0,6.0,2100.0,6.0,8.0,2014–19 Corolla Waggon Petrol,2WD
+56882,TOYOTA,COROLLA,CVT,Petrol,80.0,1545.0,4.0,1496.0,Car(Small): Station wagon,,7,126.0,1.76,7.0,1820.0,5.2,8.0,2014–19 Corolla Waggon Petrol,2WD
+17570,TOYOTA,COROLLA,CVT,Petrol,80.0,1545.0,4.0,1496.0,Car(Small): Station wagon,,7,126.0,1.76,7.0,1820.0,5.2,8.0,2014–19 Corolla Waggon Petrol,2WD
+45291,TOYOTA,COROLLA,CVT,Petrol,80.0,1545.0,4.0,1496.0,Car(Small): Station wagon,,7,126.0,1.76,7.0,1820.0,5.2,8.0,2014–19 Corolla Waggon Petrol,2WD
+39956,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,5,169.0,2.37,5.0,2560.0,7.3,8.0,2014–19 Corolla Hatch Petrol,2WD
+57238,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+1989,TOYOTA,COROLLA,CVT,Petrol,80.0,1545.0,4.0,1496.0,Car(Small): Station wagon,,7,126.0,1.76,7.0,1820.0,5.2,8.0,2014–19 Corolla Waggon Petrol,2WD
+345,TOYOTA,COROLLA,0-step CVT,Petrol Hybrid,,,,1496.0,Car: Station wagon,9.0,8,92.0,1.29,8.0,1370.0,3.9,8.0,2014–19 Corolla Waggon Petrol Hybrid,2WD
+20735,TOYOTA,COROLLA,CVT,Petrol,80.0,1545.0,4.0,1496.0,Car(Small): Station wagon,,7,126.0,1.76,7.0,1820.0,5.2,8.0,2014–19 Corolla Waggon Petrol,2WD
+41044,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,5,169.0,2.37,5.0,2560.0,7.3,8.0,2014–19 Corolla Hatch Petrol,2WD
+51402,TOYOTA,COROLLA,CVT,Petrol,102.0,1735.0,4.0,1798.0,Car(Small): Saloon,,5,170.0,2.38,5.0,2560.0,7.3,8.0,2014–19 Corolla Sedan Petrol,2WD
+57055,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,5.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+37066,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,5.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+57180,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+57202,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+22844,TOYOTA,COROLLA,CVT,Petrol,81.0,1635.0,,1496.0,Car(Small): Station wagon,,6,143.0,2.0,6.0,2100.0,6.0,8.0,2014–19 Corolla Waggon Petrol,2WD
+5576,TOYOTA,COROLLA,CVT,Petrol,81.0,1635.0,,1496.0,Car(Small): Station wagon,,6,143.0,2.0,6.0,2100.0,6.0,8.0,2014–19 Corolla Waggon Petrol,2WD
+49201,TOYOTA,COROLLA,4-gear automatic,Petrol,100.0,1805.0,5.0,1798.0,Car(Small): Hatchback,8.0,4,198.0,2.77,4.0,2870.0,8.2,4.0,2009–13 Corolla Hatch Petrol,2WD
+56860,TOYOTA,COROLLA,CVT,Petrol,80.0,1545.0,4.0,1496.0,Car(Small): Station wagon,,7,126.0,1.76,7.0,1820.0,5.2,8.0,2014–19 Corolla Waggon Petrol,2WD
+17464,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+23674,TOYOTA,COROLLA,CVT,Petrol,81.0,1635.0,,1496.0,Car(Small): Station wagon,,6,143.0,2.0,6.0,2100.0,6.0,8.0,2014–19 Corolla Waggon Petrol,2WD
+27690,TOYOTA,COROLLA,CVT,Petrol,81.0,1635.0,,1496.0,Car(Small): Station wagon,,6,143.0,2.0,6.0,2100.0,6.0,8.0,2014–19 Corolla Waggon Petrol,2WD
+24964,TOYOTA,COROLLA,CVT,Petrol,80.0,1545.0,4.0,1496.0,Car(Small): Station wagon,,7,126.0,1.76,7.0,1820.0,5.2,8.0,2014–19 Corolla Waggon Petrol,2WD
+36599,TOYOTA,COROLLA,CVT,Petrol,81.0,1635.0,,1496.0,Car(Small): Station wagon,,6,143.0,2.0,6.0,2100.0,6.0,8.0,2014–19 Corolla Waggon Petrol,2WD
+57436,TOYOTA,COROLLA,CVT,Petrol,81.0,1635.0,,1496.0,Car(Small): Station wagon,,6,143.0,2.0,6.0,2100.0,6.0,8.0,2014–19 Corolla Waggon Petrol,2WD
+57089,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,5.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+57257,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+21930,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+48896,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,5.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+57108,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,5.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+57118,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,5.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+329,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+56847,TOYOTA,COROLLA,CVT,Petrol Hybrid,,1415.0,,1496.0,Car: Saloon,9.0,8,94.0,1.32,8.0,1370.0,3.9,8.0,2014–19 Corolla Sedan Petrol Hybrid,2WD
+25606,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+49081,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+33628,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+39748,TOYOTA,COROLLA,CVT,Petrol,102.0,1735.0,4.0,1798.0,Car(Small): Saloon,,5,170.0,2.38,5.0,2560.0,7.3,8.0,2014–19 Corolla Sedan Petrol,2WD
+981,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,5,169.0,2.37,5.0,2560.0,7.3,8.0,2014–19 Corolla Hatch Petrol,2WD
+57214,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+56978,TOYOTA,COROLLA,CVT,Petrol,81.0,1635.0,,1496.0,Car(Small): Station wagon,,6,143.0,2.0,6.0,2100.0,6.0,8.0,2014–19 Corolla Waggon Petrol,2WD
+20213,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+25249,TOYOTA,COROLLA,CVT,Petrol,102.0,1735.0,4.0,1798.0,Car(Small): Saloon,,5,170.0,2.38,5.0,2560.0,7.3,8.0,2014–19 Corolla Sedan Petrol,2WD
+57112,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,5.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+57133,TOYOTA,COROLLA,CVT,Petrol,102.0,1735.0,4.0,1798.0,Car(Small): Saloon,,5,170.0,2.38,5.0,2560.0,7.3,8.0,2014–19 Corolla Sedan Petrol,2WD
+2514,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+57201,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+57105,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,5.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+56917,TOYOTA,COROLLA,CVT,Petrol,102.0,1735.0,4.0,1798.0,Car(Small): Saloon,,5,170.0,2.38,5.0,2560.0,7.3,8.0,2014–19 Corolla Sedan Petrol,2WD
+235,TOYOTA,COROLLA,CVT,Petrol,102.0,1735.0,4.0,1798.0,Car(Small): Saloon,,5,170.0,2.38,5.0,2560.0,7.3,8.0,2014–19 Corolla Sedan Petrol,2WD
+57022,TOYOTA,COROLLA,CVT,Petrol,81.0,1635.0,,1496.0,Car(Small): Station wagon,,6,143.0,2.0,6.0,2100.0,6.0,8.0,2014–19 Corolla Waggon Petrol,2WD
+41678,TOYOTA,COROLLA,0-step CVT,Petrol,,,,1496.0,Car: Station wagon,9.0,7,123.0,1.72,7.0,1820.0,5.2,8.0,2014–19 Corolla Waggon Petrol,2WD
+57185,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+43714,TOYOTA,COROLLA,4-gear automatic,Petrol,100.0,1805.0,5.0,1798.0,Car(Small): Hatchback,8.0,4,198.0,2.77,4.0,2870.0,8.2,4.0,2009–13 Corolla Hatch Petrol,2WD
+15589,TOYOTA,COROLLA,4-gear automatic,Petrol,100.0,1805.0,5.0,1798.0,Car(Small): Hatchback,8.0,4,198.0,2.77,4.0,2870.0,8.2,4.0,2009–13 Corolla Hatch Petrol,2WD
+57127,TOYOTA,COROLLA,CVT,Petrol,102.0,1735.0,4.0,1798.0,Car(Small): Saloon,,5,170.0,2.38,5.0,2560.0,7.3,8.0,2014–19 Corolla Sedan Petrol,2WD
+57109,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,5.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+925,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+21895,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,5,169.0,2.37,5.0,2560.0,7.3,8.0,2014–19 Corolla Hatch Petrol,2WD
+57477,TOYOTA,COROLLA,4-gear automatic,Petrol,100.0,1805.0,5.0,1798.0,Car(Small): Hatchback,8.0,4,198.0,2.77,4.0,2870.0,8.2,4.0,2009–13 Corolla Hatch Petrol,2WD
+48382,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,5.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+47236,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,5.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+51071,TOYOTA,COROLLA,CVT,Petrol,80.0,1545.0,4.0,1496.0,Car(Small): Station wagon,,7,126.0,1.76,7.0,1820.0,5.2,8.0,2014–19 Corolla Waggon Petrol,2WD
+57173,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+23853,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,5,169.0,2.37,5.0,2560.0,7.3,8.0,2014–19 Corolla Hatch Petrol,2WD
+56987,TOYOTA,COROLLA,CVT,Petrol,81.0,1635.0,,1496.0,Car(Small): Station wagon,,6,143.0,2.0,6.0,2100.0,6.0,8.0,2014–19 Corolla Waggon Petrol,2WD
+57218,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+56911,TOYOTA,COROLLA,CVT,Petrol,102.0,1735.0,4.0,1798.0,Car(Small): Saloon,,5,170.0,2.38,5.0,2560.0,7.3,8.0,2014–19 Corolla Sedan Petrol,2WD
+6008,TOYOTA,COROLLA,CVT,Petrol,80.0,1545.0,4.0,1496.0,Car(Small): Station wagon,,7,126.0,1.76,7.0,1820.0,5.2,8.0,2014–19 Corolla Waggon Petrol,2WD
+57212,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+4093,TOYOTA,COROLLA,CVT,Petrol,81.0,1635.0,,1496.0,Car(Small): Station wagon,,6,143.0,2.0,6.0,2100.0,6.0,8.0,2014–19 Corolla Waggon Petrol,2WD
+18230,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+6747,TOYOTA,COROLLA,CVT,Petrol,80.0,1545.0,4.0,1496.0,Car(Small): Station wagon,,7,126.0,1.76,7.0,1820.0,5.2,8.0,2014–19 Corolla Waggon Petrol,2WD
+16326,TOYOTA,COROLLA,CVT,Petrol,102.0,1735.0,4.0,1798.0,Car(Small): Saloon,,5,170.0,2.38,5.0,2560.0,7.3,8.0,2014–19 Corolla Sedan Petrol,2WD
+5076,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,5.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+19505,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+47014,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,5.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+36598,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+42950,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,5.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+57076,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,5.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+48781,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,5.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+44741,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,5,169.0,2.37,5.0,2560.0,7.3,8.0,2014–19 Corolla Hatch Petrol,2WD
+57464,TOYOTA,COROLLA,4-gear automatic,Petrol,100.0,1805.0,5.0,1798.0,Car(Small): Hatchback,8.0,4,198.0,2.77,4.0,2870.0,8.2,4.0,2009–13 Corolla Hatch Petrol,2WD
+14302,TOYOTA,COROLLA,CVT,Petrol,102.0,1735.0,4.0,1798.0,Car(Small): Saloon,,5,170.0,2.38,5.0,2560.0,7.3,8.0,2014–19 Corolla Sedan Petrol,2WD
+56916,TOYOTA,COROLLA,CVT,Petrol,102.0,1735.0,4.0,1798.0,Car(Small): Saloon,,5,170.0,2.38,5.0,2560.0,7.3,8.0,2014–19 Corolla Sedan Petrol,2WD
+4090,TOYOTA,COROLLA,CVT,Petrol,80.0,1545.0,4.0,1496.0,Car(Small): Station wagon,,7,126.0,1.76,7.0,1820.0,5.2,8.0,2014–19 Corolla Waggon Petrol,2WD
+57204,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+1193,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+57119,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,5.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+2025,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+56997,TOYOTA,COROLLA,CVT,Petrol,81.0,1635.0,,1496.0,Car(Small): Station wagon,,6,143.0,2.0,6.0,2100.0,6.0,8.0,2014–19 Corolla Waggon Petrol,2WD
+57261,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+293,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,5.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+27995,TOYOTA,COROLLA,CVT,Petrol Hybrid,,1455.0,,1496.0,Car: Station wagon,9.0,8,94.0,1.32,8.0,1370.0,3.9,8.0,2009–13 Corolla Wagon Petrol Hybrid,2WD
+18755,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+57421,TOYOTA,COROLLA,CVT,Petrol,81.0,1635.0,,1496.0,Car(Small): Station wagon,,6,143.0,2.0,6.0,2100.0,6.0,8.0,2014–19 Corolla Waggon Petrol,2WD
+3337,TOYOTA,COROLLA,0-step CVT,Petrol Hybrid,,,,1496.0,Car: Station wagon,9.0,8,92.0,1.29,8.0,1370.0,3.9,8.0,2014–19 Corolla Waggon Petrol Hybrid,2WD
+17777,TOYOTA,COROLLA,CVT,Petrol,102.0,1735.0,4.0,1798.0,Car(Small): Saloon,,5,170.0,2.38,5.0,2560.0,7.3,8.0,2014–19 Corolla Sedan Petrol,2WD
+42541,TOYOTA,COROLLA,CVT,Petrol,81.0,1635.0,,1496.0,Car(Small): Station wagon,,6,143.0,2.0,6.0,2100.0,6.0,8.0,2014–19 Corolla Waggon Petrol,2WD
+57431,TOYOTA,COROLLA,CVT,Petrol,81.0,1635.0,,1496.0,Car(Small): Station wagon,,6,143.0,2.0,6.0,2100.0,6.0,8.0,2014–19 Corolla Waggon Petrol,2WD
+17972,TOYOTA,COROLLA,CVT,Petrol,102.0,1735.0,4.0,1798.0,Car(Small): Saloon,,5,170.0,2.38,5.0,2560.0,7.3,8.0,2014–19 Corolla Sedan Petrol,2WD
+13134,TOYOTA,COROLLA,CVT,Petrol,81.0,1635.0,,1496.0,Car(Small): Station wagon,,6,143.0,2.0,6.0,2100.0,6.0,8.0,2014–19 Corolla Waggon Petrol,2WD
+48160,TOYOTA,COROLLA,0-step CVT,Petrol,,,,1496.0,Car: Station wagon,9.0,7,123.0,1.72,7.0,1820.0,5.2,8.0,2014–19 Corolla Waggon Petrol,2WD
+57331,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,5,169.0,2.37,5.0,2560.0,7.3,8.0,2014–19 Corolla Hatch Petrol,2WD
+56815,TOYOTA,COROLLA,CVT,Petrol,80.0,1545.0,4.0,1496.0,Car(Small): Station wagon,,7,126.0,1.76,7.0,1820.0,5.2,8.0,2014–19 Corolla Waggon Petrol,2WD
+56998,TOYOTA,COROLLA,CVT,Petrol,81.0,1635.0,,1496.0,Car(Small): Station wagon,,6,143.0,2.0,6.0,2100.0,6.0,8.0,2014–19 Corolla Waggon Petrol,2WD
+18597,TOYOTA,COROLLA,CVT,Petrol,81.0,1635.0,,1496.0,Car(Small): Station wagon,,6,143.0,2.0,6.0,2100.0,6.0,8.0,2014–19 Corolla Waggon Petrol,2WD
+3929,TOYOTA,COROLLA,CVT,Petrol,80.0,1545.0,4.0,1496.0,Car(Small): Station wagon,,7,126.0,1.76,7.0,1820.0,5.2,8.0,2014–19 Corolla Waggon Petrol,2WD
+56867,TOYOTA,COROLLA,CVT,Petrol,80.0,1545.0,4.0,1496.0,Car(Small): Station wagon,,7,126.0,1.76,7.0,1820.0,5.2,8.0,2014–19 Corolla Waggon Petrol,2WD
+56854,TOYOTA,COROLLA,CVT,Petrol,80.0,1545.0,4.0,1496.0,Car(Small): Station wagon,,7,126.0,1.76,7.0,1820.0,5.2,8.0,2014–19 Corolla Waggon Petrol,2WD
+57441,TOYOTA,COROLLA,4-gear automatic,Petrol,100.0,1805.0,5.0,1798.0,Car(Small): Hatchback,8.0,4,198.0,2.77,4.0,2870.0,8.2,4.0,2009–13 Corolla Hatch Petrol,2WD
+4522,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+23132,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,5,169.0,2.37,5.0,2560.0,7.3,8.0,2014–19 Corolla Hatch Petrol,2WD
+20421,TOYOTA,COROLLA,CVT,Petrol,102.0,1735.0,4.0,1798.0,Car(Small): Saloon,,5,170.0,2.38,5.0,2560.0,7.3,8.0,2014–19 Corolla Sedan Petrol,2WD
+40754,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,5.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+35581,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+44376,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,5.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+2216,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,5,169.0,2.37,5.0,2560.0,7.3,8.0,2014–19 Corolla Hatch Petrol,2WD
+57175,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+38342,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,5.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+57093,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,5.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+22953,TOYOTA,COROLLA,CVT,Petrol,81.0,1635.0,,1496.0,Car(Small): Station wagon,,6,143.0,2.0,6.0,2100.0,6.0,8.0,2014–19 Corolla Waggon Petrol,2WD
+21004,TOYOTA,COROLLA,CVT,Petrol,80.0,1545.0,4.0,1496.0,Car(Small): Station wagon,,7,126.0,1.76,7.0,1820.0,5.2,8.0,2014–19 Corolla Waggon Petrol,2WD
+57462,TOYOTA,COROLLA,4-gear automatic,Petrol,100.0,1805.0,5.0,1798.0,Car(Small): Hatchback,8.0,4,198.0,2.77,4.0,2870.0,8.2,4.0,2009–13 Corolla Hatch Petrol,2WD
+50707,TOYOTA,COROLLA,CVT,Petrol,80.0,1545.0,4.0,1496.0,Car(Small): Station wagon,,7,126.0,1.76,7.0,1820.0,5.2,8.0,2014–19 Corolla Waggon Petrol,2WD
+57060,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,5.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+5593,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,5,169.0,2.37,5.0,2560.0,7.3,8.0,2014–19 Corolla Hatch Petrol,2WD
+5851,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+3531,TOYOTA,COROLLA,0-step CVT,Petrol Hybrid,,,,1496.0,Car: Station wagon,9.0,8,92.0,1.29,8.0,1370.0,3.9,8.0,2014–19 Corolla Waggon Petrol Hybrid,2WD
+56885,TOYOTA,COROLLA,0-step CVT,Petrol Hybrid,,,,1496.0,Car: Station wagon,9.0,8,92.0,1.29,8.0,1370.0,3.9,8.0,2014–19 Corolla Waggon Petrol Hybrid,2WD
+57446,TOYOTA,COROLLA,4-gear automatic,Petrol,100.0,1805.0,5.0,1798.0,Car(Small): Hatchback,8.0,4,198.0,2.77,4.0,2870.0,8.2,4.0,2009–13 Corolla Hatch Petrol,2WD
+57327,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,5,169.0,2.37,5.0,2560.0,7.3,8.0,2014–19 Corolla Hatch Petrol,2WD
+57470,TOYOTA,COROLLA,4-gear automatic,Petrol,100.0,1805.0,5.0,1798.0,Car(Small): Hatchback,8.0,4,198.0,2.77,4.0,2870.0,8.2,4.0,2009–13 Corolla Hatch Petrol,2WD
+12237,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,5.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+57249,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+50422,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,5.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+14973,TOYOTA,COROLLA,CVT,Petrol,80.0,1545.0,4.0,1496.0,Car(Small): Station wagon,,7,126.0,1.76,7.0,1820.0,5.2,8.0,2014–19 Corolla Waggon Petrol,2WD
+14902,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+22499,TOYOTA,COROLLA,CVT,Petrol,102.0,1735.0,4.0,1798.0,Car(Small): Saloon,,5,170.0,2.38,5.0,2560.0,7.3,8.0,2014–19 Corolla Sedan Petrol,2WD
+3370,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+19380,TOYOTA,COROLLA,CVT,Petrol,102.0,1735.0,4.0,1798.0,Car(Small): Saloon,,5,170.0,2.38,5.0,2560.0,7.3,8.0,2014–19 Corolla Sedan Petrol,2WD
+57184,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+42607,TOYOTA,COROLLA,CVT,Petrol,80.0,1545.0,4.0,1496.0,Car(Small): Station wagon,,7,126.0,1.76,7.0,1820.0,5.2,8.0,2014–19 Corolla Waggon Petrol,2WD
+47152,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+2965,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+13723,TOYOTA,COROLLA,CVT,Petrol,81.0,1635.0,,1496.0,Car(Small): Station wagon,,6,143.0,2.0,6.0,2100.0,6.0,8.0,2014–19 Corolla Waggon Petrol,2WD
+57262,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+46433,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,5,169.0,2.37,5.0,2560.0,7.3,8.0,2014–19 Corolla Hatch Petrol,2WD
+40959,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,5.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+3724,TOYOTA,COROLLA,0-step CVT,Petrol,,,,1496.0,Car: Station wagon,9.0,7,123.0,1.72,7.0,1820.0,5.2,8.0,2014–19 Corolla Waggon Petrol,2WD
+15728,TOYOTA,COROLLA,4-gear automatic,Petrol,100.0,1805.0,5.0,1798.0,Car(Small): Hatchback,8.0,4,198.0,2.77,4.0,2870.0,8.2,4.0,2009–13 Corolla Hatch Petrol,2WD
+57422,TOYOTA,COROLLA,CVT,Petrol,81.0,1635.0,,1496.0,Car(Small): Station wagon,,6,143.0,2.0,6.0,2100.0,6.0,8.0,2014–19 Corolla Waggon Petrol,2WD
+57078,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,5.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+57128,TOYOTA,COROLLA,CVT,Petrol,102.0,1735.0,4.0,1798.0,Car(Small): Saloon,,5,170.0,2.38,5.0,2560.0,7.3,8.0,2014–19 Corolla Sedan Petrol,2WD
+18616,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+10795,TOYOTA,COROLLA,CVT,Petrol,81.0,1635.0,,1496.0,Car(Small): Station wagon,,6,143.0,2.0,6.0,2100.0,6.0,8.0,2014–19 Corolla Waggon Petrol,2WD
+57083,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,5.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+6639,TOYOTA,COROLLA,CVT,Petrol,80.0,1545.0,4.0,1496.0,Car(Small): Station wagon,,7,126.0,1.76,7.0,1820.0,5.2,8.0,2014–19 Corolla Waggon Petrol,2WD
+5782,TOYOTA,COROLLA,CVT,Petrol,102.0,1735.0,4.0,1798.0,Car(Small): Saloon,,5,170.0,2.38,5.0,2560.0,7.3,8.0,2014–19 Corolla Sedan Petrol,2WD
+56808,TOYOTA,COROLLA,CVT,Petrol,80.0,1545.0,4.0,1496.0,Car(Small): Station wagon,,7,126.0,1.76,7.0,1820.0,5.2,8.0,2014–19 Corolla Waggon Petrol,2WD
+56888,TOYOTA,COROLLA,0-step CVT,Petrol Hybrid,,,,1496.0,Car: Station wagon,9.0,8,92.0,1.29,8.0,1370.0,3.9,8.0,2014–19 Corolla Waggon Petrol Hybrid,2WD
+23310,TOYOTA,COROLLA,4-gear automatic,Petrol,100.0,1805.0,5.0,1798.0,Car(Small): Hatchback,8.0,4,198.0,2.77,4.0,2870.0,8.2,4.0,2009–13 Corolla Hatch Petrol,2WD
+56940,TOYOTA,COROLLA,CVT,Petrol,102.0,1735.0,4.0,1798.0,Car(Small): Saloon,,5,170.0,2.38,5.0,2560.0,7.3,8.0,2014–19 Corolla Sedan Petrol,2WD
+49334,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+7837,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,5.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+41125,TOYOTA,COROLLA,CVT,Petrol,81.0,1635.0,,1496.0,Car(Small): Station wagon,,6,143.0,2.0,6.0,2100.0,6.0,8.0,2014–19 Corolla Waggon Petrol,2WD
+16645,TOYOTA,COROLLA,CVT,Petrol,102.0,1735.0,4.0,1798.0,Car(Small): Saloon,,5,170.0,2.38,5.0,2560.0,7.3,8.0,2014–19 Corolla Sedan Petrol,2WD
+46090,TOYOTA,COROLLA,CVT,Petrol,81.0,1635.0,,1496.0,Car(Small): Station wagon,,6,143.0,2.0,6.0,2100.0,6.0,8.0,2014–19 Corolla Waggon Petrol,2WD
+22826,TOYOTA,COROLLA,CVT,Petrol,80.0,1545.0,4.0,1496.0,Car(Small): Station wagon,,7,126.0,1.76,7.0,1820.0,5.2,8.0,2014–19 Corolla Waggon Petrol,2WD
+27671,TOYOTA,COROLLA,CVT,Petrol Hybrid,,1455.0,,1496.0,Car: Station wagon,9.0,8,94.0,1.32,8.0,1370.0,3.9,8.0,2009–13 Corolla Wagon Petrol Hybrid,2WD
+44912,TOYOTA,COROLLA,CVT,Petrol,80.0,1545.0,4.0,1496.0,Car(Small): Station wagon,,7,126.0,1.76,7.0,1820.0,5.2,8.0,2014–19 Corolla Waggon Petrol,2WD
+12429,TOYOTA,COROLLA,4-gear automatic,Petrol,100.0,1805.0,5.0,1798.0,Car(Small): Hatchback,8.0,4,198.0,2.77,4.0,2870.0,8.2,4.0,2009–13 Corolla Hatch Petrol,2WD
+4231,TOYOTA,COROLLA,0-step CVT,Petrol Hybrid,,,,1496.0,Car: Station wagon,9.0,8,92.0,1.29,8.0,1370.0,3.9,8.0,2014–19 Corolla Waggon Petrol Hybrid,2WD
+56907,TOYOTA,COROLLA,CVT,Petrol,102.0,1735.0,4.0,1798.0,Car(Small): Saloon,,5,170.0,2.38,5.0,2560.0,7.3,8.0,2014–19 Corolla Sedan Petrol,2WD
+19541,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+17761,TOYOTA,COROLLA,CVT,Petrol,80.0,1545.0,4.0,1496.0,Car(Small): Station wagon,,7,126.0,1.76,7.0,1820.0,5.2,8.0,2014–19 Corolla Waggon Petrol,2WD
+57469,TOYOTA,COROLLA,4-gear automatic,Petrol,100.0,1805.0,5.0,1798.0,Car(Small): Hatchback,8.0,4,198.0,2.77,4.0,2870.0,8.2,4.0,2009–13 Corolla Hatch Petrol,2WD
+45275,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,5.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+56869,TOYOTA,COROLLA,CVT,Petrol,80.0,1545.0,4.0,1496.0,Car(Small): Station wagon,,7,126.0,1.76,7.0,1820.0,5.2,8.0,2014–19 Corolla Waggon Petrol,2WD
+57045,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,5.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+57252,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+5127,TOYOTA,COROLLA,CVT,Petrol,81.0,1635.0,,1496.0,Car(Small): Station wagon,,6,143.0,2.0,6.0,2100.0,6.0,8.0,2014–19 Corolla Waggon Petrol,2WD
+963,TOYOTA,COROLLA,0-step CVT,Petrol Hybrid,,,,1496.0,Car: Station wagon,9.0,8,92.0,1.29,8.0,1370.0,3.9,8.0,2014–19 Corolla Waggon Petrol Hybrid,2WD
+56857,TOYOTA,COROLLA,CVT,Petrol,80.0,1545.0,4.0,1496.0,Car(Small): Station wagon,,7,126.0,1.76,7.0,1820.0,5.2,8.0,2014–19 Corolla Waggon Petrol,2WD
+57146,TOYOTA,COROLLA,CVT,Petrol,102.0,1735.0,4.0,1798.0,Car(Small): Saloon,,5,170.0,2.38,5.0,2560.0,7.3,8.0,2014–19 Corolla Sedan Petrol,2WD
+56999,TOYOTA,COROLLA,CVT,Petrol,81.0,1635.0,,1496.0,Car(Small): Station wagon,,6,143.0,2.0,6.0,2100.0,6.0,8.0,2014–19 Corolla Waggon Petrol,2WD
+32733,TOYOTA,COROLLA,CVT,Petrol,81.0,1635.0,,1496.0,Car(Small): Station wagon,,6,143.0,2.0,6.0,2100.0,6.0,8.0,2014–19 Corolla Waggon Petrol,2WD
+25073,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,5.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+57123,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,5.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+57343,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,5,169.0,2.37,5.0,2560.0,7.3,8.0,2014–19 Corolla Hatch Petrol,2WD
+45174,TOYOTA,COROLLA,4-gear automatic,Petrol,100.0,1805.0,5.0,1798.0,Car(Small): Hatchback,8.0,4,198.0,2.77,4.0,2870.0,8.2,4.0,2009–13 Corolla Hatch Petrol,2WD
+57309,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,5,169.0,2.37,5.0,2560.0,7.3,8.0,2014–19 Corolla Hatch Petrol,2WD
+57069,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,5.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+6608,TOYOTA,COROLLA,CVT,Petrol,102.0,1735.0,4.0,1798.0,Car(Small): Saloon,,5,170.0,2.38,5.0,2560.0,7.3,8.0,2014–19 Corolla Sedan Petrol,2WD
+16748,TOYOTA,COROLLA,CVT,Petrol,80.0,1545.0,4.0,1496.0,Car(Small): Station wagon,,7,126.0,1.76,7.0,1820.0,5.2,8.0,2014–19 Corolla Waggon Petrol,2WD
+57241,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+23742,TOYOTA,COROLLA,CVT,Petrol,81.0,1635.0,,1496.0,Car(Small): Station wagon,,6,143.0,2.0,6.0,2100.0,6.0,8.0,2014–19 Corolla Waggon Petrol,2WD
+57011,TOYOTA,COROLLA,CVT,Petrol,81.0,1635.0,,1496.0,Car(Small): Station wagon,,6,143.0,2.0,6.0,2100.0,6.0,8.0,2014–19 Corolla Waggon Petrol,2WD
+57243,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+35616,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,5.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+13136,TOYOTA,COROLLA,CVT,Petrol,81.0,1635.0,,1496.0,Car(Small): Station wagon,,6,143.0,2.0,6.0,2100.0,6.0,8.0,2014–19 Corolla Waggon Petrol,2WD
+3566,TOYOTA,COROLLA,CVT,Petrol,102.0,1735.0,4.0,1798.0,Car(Small): Saloon,,5,170.0,2.38,5.0,2560.0,7.3,8.0,2014–19 Corolla Sedan Petrol,2WD
+35997,TOYOTA,COROLLA,4-gear automatic,Petrol,100.0,1805.0,5.0,1798.0,Car(Small): Hatchback,8.0,4,198.0,2.77,4.0,2870.0,8.2,4.0,2009–13 Corolla Hatch Petrol,2WD
+4987,TOYOTA,COROLLA,0-step CVT,Petrol Hybrid,,,,1496.0,Car: Station wagon,9.0,8,92.0,1.29,8.0,1370.0,3.9,8.0,2014–19 Corolla Waggon Petrol Hybrid,2WD
+36119,TOYOTA,COROLLA,CVT,Petrol,81.0,1635.0,,1496.0,Car(Small): Station wagon,,6,143.0,2.0,6.0,2100.0,6.0,8.0,2014–19 Corolla Waggon Petrol,2WD
+56926,TOYOTA,COROLLA,CVT,Petrol,102.0,1735.0,4.0,1798.0,Car(Small): Saloon,,5,170.0,2.38,5.0,2560.0,7.3,8.0,2014–19 Corolla Sedan Petrol,2WD
+42676,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,5.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+57443,TOYOTA,COROLLA,4-gear automatic,Petrol,100.0,1805.0,5.0,1798.0,Car(Small): Hatchback,8.0,4,198.0,2.77,4.0,2870.0,8.2,4.0,2009–13 Corolla Hatch Petrol,2WD
+29880,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,5,169.0,2.37,5.0,2560.0,7.3,8.0,2014–19 Corolla Hatch Petrol,2WD
+57478,TOYOTA,COROLLA,4-gear automatic,Petrol,100.0,1805.0,5.0,1798.0,Car(Small): Hatchback,8.0,4,198.0,2.77,4.0,2870.0,8.2,4.0,2009–13 Corolla Hatch Petrol,2WD
+17916,TOYOTA,COROLLA,CVT,Petrol,102.0,1735.0,4.0,1798.0,Car(Small): Saloon,,5,170.0,2.38,5.0,2560.0,7.3,8.0,2014–19 Corolla Sedan Petrol,2WD
+57426,TOYOTA,COROLLA,CVT,Petrol,81.0,1635.0,,1496.0,Car(Small): Station wagon,,6,143.0,2.0,6.0,2100.0,6.0,8.0,2014–19 Corolla Waggon Petrol,2WD
+19180,TOYOTA,COROLLA,CVT,Petrol,80.0,1545.0,4.0,1496.0,Car(Small): Station wagon,,7,126.0,1.76,7.0,1820.0,5.2,8.0,2014–19 Corolla Waggon Petrol,2WD
+57219,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+56793,TOYOTA,COROLLA,CVT,Petrol,80.0,1545.0,4.0,1496.0,Car(Small): Station wagon,,7,126.0,1.76,7.0,1820.0,5.2,8.0,2014–19 Corolla Waggon Petrol,2WD
+5005,TOYOTA,COROLLA,CVT,Petrol Hybrid,,1455.0,,1496.0,Car: Station wagon,9.0,8,94.0,1.32,8.0,1370.0,3.9,8.0,2014–19 Corolla Waggon Petrol Hybrid,2WD
+15832,TOYOTA,COROLLA,4-gear automatic,Petrol,100.0,1805.0,5.0,1798.0,Car(Small): Hatchback,8.0,4,198.0,2.77,4.0,2870.0,8.2,4.0,2009–13 Corolla Hatch Petrol,2WD
+1436,TOYOTA,COROLLA,CVT,Petrol,102.0,1735.0,4.0,1798.0,Car(Small): Saloon,,5,170.0,2.38,5.0,2560.0,7.3,8.0,2014–19 Corolla Sedan Petrol,2WD
+39484,TOYOTA,COROLLA,4-gear automatic,Petrol,100.0,1805.0,5.0,1798.0,Car(Small): Hatchback,8.0,4,198.0,2.77,4.0,2870.0,8.2,4.0,2009–13 Corolla Hatch Petrol,2WD
+57324,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,4.0,1798.0,Car(Small): Hatchback,10.0,5,169.0,2.37,5.0,2560.0,7.3,8.0,2014–19 Corolla Hatch Petrol,2WD
+51404,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,5.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+996,TOYOTA,COROLLA,CVT,Petrol,103.0,1805.0,5.0,1798.0,Car(Small): Hatchback,10.0,6,159.0,2.23,5.0,2380.0,6.8,8.0,2014–19 Corolla Hatch Petrol,2WD
+56806,TOYOTA,COROLLA,CVT,Petrol,80.0,1545.0,4.0,1496.0,Car(Small): Station wagon,,7,126.0,1.76,7.0,1820.0,5.2,8.0,2014–19 Corolla Waggon Petrol,2WD
